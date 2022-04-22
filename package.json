@@ -12,7 +12,7 @@
     "dev": "quasar dev",
     "build": "quasar build",
     "build:pwa": "quasar build -m pwa",
-    "deploy": "vercel",
+    "deploy": "vercel"
   },
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
